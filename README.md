@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyenha-io
-- 👀 I’m interested in php, java, python, angular and designing
+- 👀 I’m interested in php, java, python, angular, blockchain and designing
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
